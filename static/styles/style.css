@@ -1,0 +1,17 @@
+body
+{
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+ background-image:url(../image.jpg);
+}
+
+label{
+    margin-left:20px;
+
+}
+
+select{
+    padding: 1px 6px;
+    cursor: pointer;
+}
