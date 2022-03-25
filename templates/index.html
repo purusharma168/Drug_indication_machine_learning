@@ -11,6 +11,7 @@
         <h4 style="font-size:20px;margin-left: 20px; color:rgb(250, 249, 232);">This web application is made to predict Drugs with the following parameters given</h4>
         <p style="font-size:20px;color:rgb(250, 249, 232);">Fill the form and get your results</p>
 
+        <form method='POST', action="{{url_for('prediction')}}">
 
          <label style="font-size:large;background-color:rgb(250, 249, 232); padding:3px 8px; margin: 10px 3px 17px 3px;">src_nm:</label>
             <input type="number", style="padding:5px 17px; font-size:13px;" name='src_nm', placeholder="enter the value"><br><br>
@@ -58,8 +59,8 @@
             <input type="submit" , style="background-color:rgb(250, 249, 232);padding:5px 12px; font-size: 15px;" value='Predict Drugs Name'> <br><br>
             <input type="reset", style="background-color:rgb(250, 249, 232);padding:5px 12px; font-size: 15px;" value='Reset value'> <br><br>
 
-
-
+ </form>
+ <h1 style="font-size:40px; color:rgb(250, 249, 232);">Created by Puru Sharma</h1>
+        </center>
     </body>
-
 </html>
