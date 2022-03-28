@@ -39,5 +39,13 @@ After doing cloud setup and checking app locally, we will push our app to cloud 
 
 
 # Demo:-
+## Main Page
+
+![image](https://github.com/purusharma168/Drug_indication_machine_learning/blob/master/Screenshot%202022-03-25%20at%209.38.02%20PM.png)
+
+## Prediction Page
+
+![image](https://github.com/purusharma168/Drug_indication_machine_learning/blob/master/Screenshot%202022-03-25%20at%209.42.14%20PM.png)
+
 
 
